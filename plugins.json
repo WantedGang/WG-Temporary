@@ -134,5 +134,23 @@
     "description": "Gain",
     "url": "https://raw.githubusercontent.com/WantedGang/WG-Temporary/main/Gain.cs3",
     "name": "Gain"
+},
+{
+    "iconUrl": "https://www.turksatkablo.com.tr/images/icerik/ssportplus.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/WantedGang/WG-Temporary",
+    "status": 1,
+    "language": "tr",
+    "authors": [
+        "WantedGang"
+    ],
+    "tvTypes": [
+         "Live"
+    ],
+    "version": 1,
+     "internalName": "SSportPlus",
+     "description": "SSportPlus",
+     "url": "https://raw.githubusercontent.com/WantedGang/WG-Temporary/main/SsportPlus.cs3",
+     "name": "SSportPlus"
   }
 ]
