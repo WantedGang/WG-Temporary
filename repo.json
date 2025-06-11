@@ -1,0 +1,8 @@
+{
+    "name": "Temporary",
+    "description": "WG-Temporary",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/WantedGang/WG-Temporary/main/plugins.json"
+    ]
+}
