@@ -3,6 +3,7 @@
     "description": "WG-Temporary",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/WantedGang/WG-Temporary/main/plugins.json"
+      "https://raw.githubusercontent.com/WantedGang/WG-Temporary/main/plugins.json",
+      "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/plugins.json"
     ]
 }
